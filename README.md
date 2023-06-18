@@ -18,3 +18,8 @@ Una vez seleccionado esto, nos daremos cuenta de que el código va a empezar a h
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
+
+## Desarrolladores
+Este proyecto fué desarrollado por:
+- Irving Carrillo
+- Mario Baéz
